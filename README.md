@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/6c0f9b95746151.5e9ecde69599e.gif)]
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/6c0f9b95746151.5e9ecde69599e.gif)
 
 <h1 align="center">Hi 👋, I'm Yash nayak</h1>
 <h3 align="center">A passionate FullStack(mern) developer from India</h3>
