@@ -66,7 +66,7 @@ With a strong foundation in modern web technologies and frameworks, I’m dedica
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PremKhodke-99&icon=8&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Nayak1703&icon=8&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
